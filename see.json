@@ -198,16 +198,143 @@
          "tilewidth":32
         }, 
         {
+         "columns":8,
          "firstgid":3329,
-         "source":"tmw_desert_spacing.json"
+         "image":"tmw_desert_spacing.png",
+         "imageheight":199,
+         "imagewidth":265,
+         "margin":0,
+         "name":"tmw_desert_spacing",
+         "spacing":1,
+         "terrains":[
+                {
+                 "name":"Neues Terrain",
+                 "tile":15
+                }],
+         "tilecount":48,
+         "tileheight":32,
+         "tiles":[
+                {
+                 "id":0,
+                 "terrain":[-1, -1, -1, 0]
+                }, 
+                {
+                 "id":1,
+                 "terrain":[-1, -1, 0, 0]
+                }, 
+                {
+                 "id":2,
+                 "terrain":[-1, -1, 0, -1]
+                }, 
+                {
+                 "id":8,
+                 "terrain":[-1, 0, -1, 0]
+                }, 
+                {
+                 "id":9,
+                 "terrain":[0, 0, 0, 0]
+                }, 
+                {
+                 "id":10,
+                 "terrain":[0, -1, 0, -1]
+                }, 
+                {
+                 "id":16,
+                 "terrain":[-1, 0, -1, -1]
+                }, 
+                {
+                 "id":17,
+                 "terrain":[0, 0, -1, -1]
+                }, 
+                {
+                 "id":18,
+                 "terrain":[0, -1, -1, -1]
+                }],
+         "tilewidth":32
         }, 
         {
+         "columns":20,
          "firstgid":3377,
-         "source":"RPG Nature Tileset.json"
+         "image":"RPG Nature Tileset.png",
+         "imageheight":288,
+         "imagewidth":641,
+         "margin":0,
+         "name":"RPG Nature Tileset",
+         "spacing":0,
+         "terrains":[
+                {
+                 "name":"erdweg",
+                 "tile":0
+                }],
+         "tilecount":180,
+         "tileheight":32,
+         "tiles":[
+                {
+                 "id":125,
+                 "terrain":[-1, -1, -1, 0]
+                }, 
+                {
+                 "id":126,
+                 "terrain":[-1, -1, 0, 0]
+                }, 
+                {
+                 "id":127,
+                 "terrain":[-1, -1, 0, -1]
+                }, 
+                {
+                 "id":128,
+                 "terrain":[-1, -1, -1, 0]
+                }, 
+                {
+                 "id":129,
+                 "terrain":[-1, -1, 0, -1]
+                }, 
+                {
+                 "id":145,
+                 "terrain":[-1, 0, -1, 0]
+                }, 
+                {
+                 "id":146,
+                 "terrain":[0, 0, 0, 0]
+                }, 
+                {
+                 "id":147,
+                 "terrain":[0, -1, 0, -1]
+                }, 
+                {
+                 "id":148,
+                 "terrain":[-1, 0, -1, -1]
+                }, 
+                {
+                 "id":149,
+                 "terrain":[0, -1, -1, -1]
+                }, 
+                {
+                 "id":165,
+                 "terrain":[-1, 0, -1, -1]
+                }, 
+                {
+                 "id":166,
+                 "terrain":[0, 0, -1, -1]
+                }, 
+                {
+                 "id":167,
+                 "terrain":[0, -1, -1, -1]
+                }],
+         "tilewidth":32
         }, 
         {
+         "columns":8,
          "firstgid":3557,
-         "source":"fantasy.json"
+         "image":"fantasy.png",
+         "imageheight":4256,
+         "imagewidth":256,
+         "margin":0,
+         "name":"fantasy",
+         "spacing":0,
+         "tilecount":1064,
+         "tileheight":32,
+         "tilewidth":32
         }],
  "tilewidth":32,
  "type":"map",
