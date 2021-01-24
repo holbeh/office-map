@@ -1,0 +1,72 @@
+{ "columns":20,
+ "image":"RPG Nature Tileset.png",
+ "imageheight":288,
+ "imagewidth":641,
+ "margin":0,
+ "name":"RPG Nature Tileset",
+ "spacing":0,
+ "terrains":[
+        {
+         "name":"erdweg",
+         "tile":0
+        }],
+ "tilecount":180,
+ "tiledversion":"1.4.3",
+ "tileheight":32,
+ "tiles":[
+        {
+         "id":125,
+         "terrain":[-1, -1, -1, 0]
+        }, 
+        {
+         "id":126,
+         "terrain":[-1, -1, 0, 0]
+        }, 
+        {
+         "id":127,
+         "terrain":[-1, -1, 0, -1]
+        }, 
+        {
+         "id":128,
+         "terrain":[-1, -1, -1, 0]
+        }, 
+        {
+         "id":129,
+         "terrain":[-1, -1, 0, -1]
+        }, 
+        {
+         "id":145,
+         "terrain":[-1, 0, -1, 0]
+        }, 
+        {
+         "id":146,
+         "terrain":[0, 0, 0, 0]
+        }, 
+        {
+         "id":147,
+         "terrain":[0, -1, 0, -1]
+        }, 
+        {
+         "id":148,
+         "terrain":[-1, 0, -1, -1]
+        }, 
+        {
+         "id":149,
+         "terrain":[0, -1, -1, -1]
+        }, 
+        {
+         "id":165,
+         "terrain":[-1, 0, -1, -1]
+        }, 
+        {
+         "id":166,
+         "terrain":[0, 0, -1, -1]
+        }, 
+        {
+         "id":167,
+         "terrain":[0, -1, -1, -1]
+        }],
+ "tilewidth":32,
+ "type":"tileset",
+ "version":1.4
+}

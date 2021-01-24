@@ -199,15 +199,15 @@
         }, 
         {
          "firstgid":3329,
-         "source":"tmw_desert_spacing.tsx"
+         "source":"tmw_desert_spacing.json"
         }, 
         {
          "firstgid":3377,
-         "source":"RPG Nature Tileset.tsx"
+         "source":"RPG Nature Tileset.json"
         }, 
         {
          "firstgid":3557,
-         "source":"fantasy.tsx"
+         "source":"fantasy.json"
         }],
  "tilewidth":32,
  "type":"map",
