@@ -81,7 +81,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"see.json"
+                 "value":"https:\/\/Drachensegler.github.io\/office-map\/see.json"
                 }],
          "type":"tilelayer",
          "visible":true,
