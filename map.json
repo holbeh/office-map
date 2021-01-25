@@ -81,7 +81,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/play.kloenk.dev\/_\/global\/https:\/\/Drachensegler.github.io\/office-map\/see.json"
+                 "value":"https:\/\/Drachensegler.github.io\/office-map\/see.json"
                 }],
          "type":"tilelayer",
          "visible":true,
