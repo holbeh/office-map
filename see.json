@@ -31,7 +31,7 @@
                 {
                  "name":"playAudioLoop",
                  "type":"string",
-                 "value":"music\/nicht_schwimmen.mp3"
+                 "value":"\/music\/nschwimmen.mp3"
                 }],
          "type":"tilelayer",
          "visible":true,
