@@ -79,7 +79,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"Segelschule_Treffen"
+                 "value":"SegelschuleTreffen"
                 }],
          "type":"tilelayer",
          "visible":true,
