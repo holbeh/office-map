@@ -42,7 +42,7 @@
                 {
                  "name":"playAudioLoop",
                  "type":"string",
-                 "value":"music\/popcorn.mp3"
+                 "value":"music\/poccorn.mp3"
                 }],
          "type":"tilelayer",
          "visible":true,
