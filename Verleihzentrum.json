@@ -19,7 +19,7 @@
                 {
                  "name":"playAudioLoop",
                  "type":"string",
-                 "value":"music\/Tretbootverleih.mp3"
+                 "value":"music\/Tretbootverleih_GK.mp3"
                 }],
          "type":"tilelayer",
          "visible":true,
