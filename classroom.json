@@ -79,7 +79,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/events.unterbachersee.de\/externerlink\/#https:\/\/stream.unterbachersee.de\/b\/hol-wcq-b21-tuu"
+                 "value":"https:\/\/event.unterbachersee.de\/externerlink\/#https:\/\/stream.unterbachersee.de\/b\/hol-wcq-b21-tuu"
                 }],
          "type":"tilelayer",
          "visible":true,
