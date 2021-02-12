@@ -90,7 +90,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"Parksplatz.json#vomContainer"
+                 "value":"Parkplatz.json#vomContainer"
                 }],
          "type":"tilelayer",
          "visible":true,
