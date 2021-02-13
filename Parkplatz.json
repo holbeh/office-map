@@ -46,7 +46,7 @@
          "name":"dontsteppover",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":100,
          "x":0,
          "y":0
@@ -154,7 +154,7 @@
                  "value":"Technik.json"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":100,
          "x":0,
          "y":0
@@ -172,7 +172,7 @@
                  "value":"Verleihzentrum.json"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":100,
          "x":0,
          "y":0
@@ -190,7 +190,7 @@
                  "value":"https:\/\/Drachensegler.github.io\/office-map\/see.json"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":100,
          "x":0,
          "y":0
@@ -208,7 +208,7 @@
                  "value":"https:\/\/event.unterbachersee.de\/posts\/zeitplanung"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":100,
          "x":0,
          "y":0
@@ -268,7 +268,7 @@
          "name":"treeLayer 3",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":100,
          "x":0,
          "y":0
@@ -280,7 +280,7 @@
          "name":"treeLayer 4",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":100,
          "x":0,
          "y":0
