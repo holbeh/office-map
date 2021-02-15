@@ -1,0 +1,56 @@
+{ "columns":8,
+ "image":"tmw_desert_spacing.png",
+ "imageheight":199,
+ "imagewidth":265,
+ "margin":0,
+ "name":"tmw_desert_spacing",
+ "spacing":1,
+ "terrains":[
+        {
+         "name":"Neues Terrain",
+         "tile":15
+        }],
+ "tilecount":48,
+ "tiledversion":"1.4.3",
+ "tileheight":32,
+ "tiles":[
+        {
+         "id":0,
+         "terrain":[-1, -1, -1, 0]
+        }, 
+        {
+         "id":1,
+         "terrain":[-1, -1, 0, 0]
+        }, 
+        {
+         "id":2,
+         "terrain":[-1, -1, 0, -1]
+        }, 
+        {
+         "id":8,
+         "terrain":[-1, 0, -1, 0]
+        }, 
+        {
+         "id":9,
+         "terrain":[0, 0, 0, 0]
+        }, 
+        {
+         "id":10,
+         "terrain":[0, -1, 0, -1]
+        }, 
+        {
+         "id":16,
+         "terrain":[-1, 0, -1, -1]
+        }, 
+        {
+         "id":17,
+         "terrain":[0, 0, -1, -1]
+        }, 
+        {
+         "id":18,
+         "terrain":[0, -1, -1, -1]
+        }],
+ "tilewidth":32,
+ "type":"tileset",
+ "version":1.4
+}
