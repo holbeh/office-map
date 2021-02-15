@@ -82,7 +82,7 @@
          "name":"dontwalkthru",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":100,
          "x":0,
          "y":0
@@ -100,7 +100,7 @@
                  "value":"map.json"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":100,
          "x":0,
          "y":0
@@ -118,7 +118,7 @@
                  "value":"https:\/\/event.unterbachersee.de\/externerlink\/#https:\/\/stream.unterbachersee.de\/b\/hol-wcq-b21-tuu"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":100,
          "x":0,
          "y":0
@@ -136,7 +136,7 @@
                  "value":true
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":100,
          "x":0,
          "y":0
@@ -151,7 +151,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/Drachensegler.github.io\/office-map\/see.json"
+                 "value":"see.json#EingangVomSchulungsraum"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -172,7 +172,7 @@
                  "value":"SegelschuleTreffen"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":100,
          "x":0,
          "y":0
@@ -190,7 +190,7 @@
                  "value":"https:\/\/unterbachersee.de\/wp-content\/uploads\/Atem.jpg"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":100,
          "x":0,
          "y":0
@@ -208,7 +208,7 @@
                  "value":"Kleiner Tisch"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":100,
          "x":0,
          "y":0
@@ -220,7 +220,7 @@
          "name":"Fu\u00dfboden",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":100,
          "x":0,
          "y":0
@@ -232,7 +232,7 @@
          "name":"2.floor",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":100,
          "x":0,
          "y":0
@@ -244,7 +244,7 @@
          "name":"chairlayer",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":100,
          "x":0,
          "y":0
@@ -256,7 +256,7 @@
          "name":"funiture",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":100,
          "x":0,
          "y":0
@@ -268,7 +268,7 @@
          "name":"tree layer 2",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":100,
          "x":0,
          "y":0
@@ -280,7 +280,7 @@
          "name":"Tree layer 3",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":100,
          "x":0,
          "y":0
@@ -292,7 +292,7 @@
          "name":"itelmlayer",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":100,
          "x":0,
          "y":0
@@ -304,7 +304,7 @@
          "name":"signsLayer",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":100,
          "x":0,
          "y":0
@@ -316,7 +316,7 @@
          "objects":[],
          "opacity":1,
          "type":"objectgroup",
-         "visible":true,
+         "visible":false,
          "x":0,
          "y":0
         }],
