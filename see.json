@@ -91,7 +91,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/event.unterbachersee.de\/externerlink\/#https:\/\/segelschule.unterbachersee.de"
+                 "value":"https:\/\/event.unterbachersee.de\/externerlink\/?button_self=0#https:\/\/segelschule.unterbachersee.de"
                 }],
          "type":"tilelayer",
          "visible":true,
