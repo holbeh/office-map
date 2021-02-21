@@ -337,7 +337,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/holbeh.github.io\/office-map\/classroom.json"
+                 "value":"classroom.json"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -355,7 +355,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/holbeh.github.io\/office-map\/Parkplatz.json"
+                 "value":"Parkplatz.json"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -373,7 +373,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/holbeh.github.io\/office-map\/Verleihzentrum.json"
+                 "value":"Verleihzentrum.json"
                 }],
          "type":"tilelayer",
          "visible":true,
